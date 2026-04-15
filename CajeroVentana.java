@@ -14,7 +14,7 @@ public class CajeroVentana {
 
         while (opcion != 3) {
             String menu = "Saldo actual: $" + saldo + "\n" +
-                          "1. Depositar dinero\n" +
+                          "1. Depositar monedas\n" +
                           "2. Retirar dinero\n" +
                           "3. Salir\n\n" +
                           "Elija una opción:";
